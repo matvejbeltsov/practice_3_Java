@@ -23,7 +23,5 @@ public class Movie {
         return cast;
     }
 
-    public double getRating(){
-        return rating;
-    }
+
 }
